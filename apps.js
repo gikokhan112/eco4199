@@ -3,14 +3,14 @@ document.addEventListener("DOMContentLoaded", function () {
     const apps = [
         {
             id: 1,
-            title: "Gta 5",
-            icon: "apk-icon.jpg",
+            title: "Best Cheat Loader_ 200m brutal edition",
+            icon: "1.jpg",
             downloadLink: "app1-details.html"
         },
         {
             id: 2,
-            title: "Sample App 2",
-            icon: "app2-icon.jpg",
+            title: "Best Cheat Loader_ v4 esp fix",
+            icon: "2.jpg",
             downloadLink: "app2-details.html"
         }
     ];
