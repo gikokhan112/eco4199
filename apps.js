@@ -5,7 +5,7 @@ document.addEventListener("DOMContentLoaded", function () {
             id: 1,
             title: "Best Cheat Loader_ 200m brutal edition",
             icon: "1.jpg",
-            downloadLink: "app1-details.html"
+            downloadLink: "https://cuty.io/5s8ILuW"
         },
         {
             id: 2,
